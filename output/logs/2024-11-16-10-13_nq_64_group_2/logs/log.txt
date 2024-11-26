@@ -1,3 +1,0 @@
-2024-11-16-10-13: using tensorboard
-2024-11-16-10-13: <epoch:0, <total_loss_g_train:27245574.132812, train_psnr:-103.725761, vq_loss_train:71.90681, spec_loss_train:0.64437>
-2024-11-16-10-13: <epoch:0, <recon_loss_valid:7446683.071429,st_valid:nan, spec_loss_valid:4.47002,psnr_valid:-62.69903,best_epoch:-1>
