@@ -1,0 +1,514 @@
+2024-11-11-20-18: using tensorboard
+2024-11-11-20-18: <epoch:0, <total_loss_g_train:4.645684, train_psnr:23.322693, vq_loss_train:0.04580, spec_loss_train:0.03891>
+2024-11-11-20-18: <epoch:0, <recon_loss_valid:0.009703,st_valid:0.91944, spec_loss_valid:0.33807,psnr_valid:26.20250,best_epoch:0>
+2024-11-11-20-18: <epoch:1, <total_loss_g_train:0.297757, train_psnr:26.627527, vq_loss_train:0.00262, spec_loss_train:0.03189>
+2024-11-11-20-18: <epoch:1, <recon_loss_valid:0.006672,st_valid:0.94735, spec_loss_valid:0.29756,psnr_valid:27.82250,best_epoch:1>
+2024-11-11-20-18: <epoch:2, <total_loss_g_train:0.181289, train_psnr:28.376511, vq_loss_train:0.00156, spec_loss_train:0.02671>
+2024-11-11-20-18: <epoch:2, <recon_loss_valid:0.005015,st_valid:0.95861, spec_loss_valid:0.25332,psnr_valid:29.06775,best_epoch:2>
+2024-11-11-20-18: <epoch:3, <total_loss_g_train:0.133974, train_psnr:29.597677, vq_loss_train:0.00114, spec_loss_train:0.02320>
+2024-11-11-20-18: <epoch:3, <recon_loss_valid:0.003963,st_valid:0.96685, spec_loss_valid:0.22888,psnr_valid:30.09395,best_epoch:3>
+2024-11-11-20-18: <epoch:4, <total_loss_g_train:0.109000, train_psnr:30.299311, vq_loss_train:0.00092, spec_loss_train:0.02166>
+2024-11-11-20-18: <epoch:4, <recon_loss_valid:0.003454,st_valid:0.97086, spec_loss_valid:0.21754,psnr_valid:30.69454,best_epoch:4>
+2024-11-11-20-18: <epoch:5, <total_loss_g_train:0.094580, train_psnr:30.751736, vq_loss_train:0.00079, spec_loss_train:0.02078>
+2024-11-11-20-18: <epoch:5, <recon_loss_valid:0.003228,st_valid:0.97337, spec_loss_valid:0.21037,psnr_valid:30.99015,best_epoch:5>
+2024-11-11-20-18: <epoch:6, <total_loss_g_train:0.085806, train_psnr:31.089655, vq_loss_train:0.00071, spec_loss_train:0.02025>
+2024-11-11-20-18: <epoch:6, <recon_loss_valid:0.002803,st_valid:0.97587, spec_loss_valid:0.20471,psnr_valid:31.60614,best_epoch:6>
+2024-11-11-20-18: <epoch:7, <total_loss_g_train:0.079857, train_psnr:31.336424, vq_loss_train:0.00066, spec_loss_train:0.01987>
+2024-11-11-20-18: <epoch:7, <recon_loss_valid:0.002683,st_valid:0.97687, spec_loss_valid:0.20157,psnr_valid:31.79841,best_epoch:7>
+2024-11-11-20-18: <epoch:8, <total_loss_g_train:0.075555, train_psnr:31.551081, vq_loss_train:0.00062, spec_loss_train:0.01959>
+2024-11-11-20-18: <epoch:8, <recon_loss_valid:0.002746,st_valid:0.97670, spec_loss_valid:0.20152,psnr_valid:31.69573,best_epoch:7>
+2024-11-11-20-18: <epoch:9, <total_loss_g_train:0.072664, train_psnr:31.697634, vq_loss_train:0.00060, spec_loss_train:0.01951>
+2024-11-11-20-18: <epoch:9, <recon_loss_valid:0.002708,st_valid:0.97734, spec_loss_valid:0.20019,psnr_valid:31.75378,best_epoch:7>
+2024-11-11-20-18: <epoch:10, <total_loss_g_train:0.070409, train_psnr:31.816549, vq_loss_train:0.00058, spec_loss_train:0.01939>
+2024-11-11-20-18: <epoch:10, <recon_loss_valid:0.002522,st_valid:0.97796, spec_loss_valid:0.19894,psnr_valid:32.06815,best_epoch:10>
+2024-11-11-20-18: <epoch:11, <total_loss_g_train:0.068258, train_psnr:31.957384, vq_loss_train:0.00056, spec_loss_train:0.01927>
+2024-11-11-20-18: <epoch:11, <recon_loss_valid:0.002438,st_valid:0.97883, spec_loss_valid:0.19639,psnr_valid:32.21961,best_epoch:11>
+2024-11-11-20-18: <epoch:12, <total_loss_g_train:0.066668, train_psnr:32.059601, vq_loss_train:0.00055, spec_loss_train:0.01916>
+2024-11-11-20-18: <epoch:12, <recon_loss_valid:0.002475,st_valid:0.97872, spec_loss_valid:0.19818,psnr_valid:32.15072,best_epoch:11>
+2024-11-11-20-18: <epoch:13, <total_loss_g_train:0.065127, train_psnr:32.156960, vq_loss_train:0.00053, spec_loss_train:0.01908>
+2024-11-11-20-18: <epoch:13, <recon_loss_valid:0.002459,st_valid:0.97922, spec_loss_valid:0.19684,psnr_valid:32.17826,best_epoch:11>
+2024-11-11-20-18: <epoch:14, <total_loss_g_train:0.063988, train_psnr:32.235287, vq_loss_train:0.00053, spec_loss_train:0.01900>
+2024-11-11-20-18: <epoch:14, <recon_loss_valid:0.002468,st_valid:0.97986, spec_loss_valid:0.19610,psnr_valid:32.15572,best_epoch:11>
+2024-11-11-20-18: <epoch:15, <total_loss_g_train:0.062912, train_psnr:32.290543, vq_loss_train:0.00052, spec_loss_train:0.01893>
+2024-11-11-20-18: <epoch:15, <recon_loss_valid:0.002288,st_valid:0.97993, spec_loss_valid:0.19422,psnr_valid:32.49672,best_epoch:15>
+2024-11-11-20-18: <epoch:16, <total_loss_g_train:0.062058, train_psnr:32.373882, vq_loss_train:0.00051, spec_loss_train:0.01888>
+2024-11-11-20-18: <epoch:16, <recon_loss_valid:0.002317,st_valid:0.98037, spec_loss_valid:0.19401,psnr_valid:32.44146,best_epoch:15>
+2024-11-11-20-18: <epoch:17, <total_loss_g_train:0.061270, train_psnr:32.408871, vq_loss_train:0.00050, spec_loss_train:0.01881>
+2024-11-11-20-18: <epoch:17, <recon_loss_valid:0.002250,st_valid:0.98044, spec_loss_valid:0.19252,psnr_valid:32.57323,best_epoch:17>
+2024-11-11-20-18: <epoch:18, <total_loss_g_train:0.060692, train_psnr:32.464725, vq_loss_train:0.00050, spec_loss_train:0.01876>
+2024-11-11-20-18: <epoch:18, <recon_loss_valid:0.002277,st_valid:0.98060, spec_loss_valid:0.19317,psnr_valid:32.51877,best_epoch:17>
+2024-11-11-20-18: <epoch:19, <total_loss_g_train:0.060070, train_psnr:32.523407, vq_loss_train:0.00049, spec_loss_train:0.01873>
+2024-11-11-20-18: <epoch:19, <recon_loss_valid:0.002257,st_valid:0.98066, spec_loss_valid:0.19281,psnr_valid:32.55306,best_epoch:17>
+2024-11-11-20-19: <epoch:20, <total_loss_g_train:0.059508, train_psnr:32.561474, vq_loss_train:0.00049, spec_loss_train:0.01870>
+2024-11-11-20-19: <epoch:20, <recon_loss_valid:0.002251,st_valid:0.98071, spec_loss_valid:0.19247,psnr_valid:32.56569,best_epoch:17>
+2024-11-11-20-19: <epoch:21, <total_loss_g_train:0.059050, train_psnr:32.595860, vq_loss_train:0.00048, spec_loss_train:0.01868>
+2024-11-11-20-19: <epoch:21, <recon_loss_valid:0.002363,st_valid:0.98064, spec_loss_valid:0.19276,psnr_valid:32.35065,best_epoch:17>
+2024-11-11-20-19: <epoch:22, <total_loss_g_train:0.058756, train_psnr:32.616756, vq_loss_train:0.00048, spec_loss_train:0.01865>
+2024-11-11-20-19: <epoch:22, <recon_loss_valid:0.002283,st_valid:0.98076, spec_loss_valid:0.19256,psnr_valid:32.50430,best_epoch:17>
+2024-11-11-20-19: <epoch:23, <total_loss_g_train:0.058306, train_psnr:32.660713, vq_loss_train:0.00048, spec_loss_train:0.01859>
+2024-11-11-20-19: <epoch:23, <recon_loss_valid:0.002189,st_valid:0.98111, spec_loss_valid:0.19165,psnr_valid:32.69041,best_epoch:23>
+2024-11-11-20-19: <epoch:24, <total_loss_g_train:0.057996, train_psnr:32.685726, vq_loss_train:0.00048, spec_loss_train:0.01860>
+2024-11-11-20-19: <epoch:24, <recon_loss_valid:0.002217,st_valid:0.98089, spec_loss_valid:0.19179,psnr_valid:32.63306,best_epoch:23>
+2024-11-11-20-19: <epoch:25, <total_loss_g_train:0.057637, train_psnr:32.705139, vq_loss_train:0.00047, spec_loss_train:0.01858>
+2024-11-11-20-19: <epoch:25, <recon_loss_valid:0.002206,st_valid:0.98094, spec_loss_valid:0.19176,psnr_valid:32.65879,best_epoch:23>
+2024-11-11-20-19: <epoch:26, <total_loss_g_train:0.057403, train_psnr:32.735977, vq_loss_train:0.00047, spec_loss_train:0.01854>
+2024-11-11-20-19: <epoch:26, <recon_loss_valid:0.002189,st_valid:0.98138, spec_loss_valid:0.19204,psnr_valid:32.69059,best_epoch:26>
+2024-11-11-20-19: <epoch:27, <total_loss_g_train:0.057104, train_psnr:32.756565, vq_loss_train:0.00047, spec_loss_train:0.01856>
+2024-11-11-20-19: <epoch:27, <recon_loss_valid:0.002190,st_valid:0.98120, spec_loss_valid:0.19249,psnr_valid:32.68642,best_epoch:26>
+2024-11-11-20-19: <epoch:28, <total_loss_g_train:0.056931, train_psnr:32.768703, vq_loss_train:0.00047, spec_loss_train:0.01853>
+2024-11-11-20-19: <epoch:28, <recon_loss_valid:0.002177,st_valid:0.98125, spec_loss_valid:0.19139,psnr_valid:32.71475,best_epoch:28>
+2024-11-11-20-19: <epoch:29, <total_loss_g_train:0.056696, train_psnr:32.795761, vq_loss_train:0.00047, spec_loss_train:0.01852>
+2024-11-11-20-19: <epoch:29, <recon_loss_valid:0.002287,st_valid:0.98109, spec_loss_valid:0.19210,psnr_valid:32.49741,best_epoch:28>
+2024-11-11-20-19: <epoch:30, <total_loss_g_train:0.056540, train_psnr:32.806835, vq_loss_train:0.00046, spec_loss_train:0.01852>
+2024-11-11-20-19: <epoch:30, <recon_loss_valid:0.002148,st_valid:0.98135, spec_loss_valid:0.19121,psnr_valid:32.77708,best_epoch:30>
+2024-11-11-20-19: <epoch:31, <total_loss_g_train:0.056390, train_psnr:32.824245, vq_loss_train:0.00046, spec_loss_train:0.01850>
+2024-11-11-20-19: <epoch:31, <recon_loss_valid:0.002181,st_valid:0.98137, spec_loss_valid:0.19253,psnr_valid:32.70695,best_epoch:30>
+2024-11-11-20-19: <epoch:32, <total_loss_g_train:0.056247, train_psnr:32.836887, vq_loss_train:0.00046, spec_loss_train:0.01849>
+2024-11-11-20-19: <epoch:32, <recon_loss_valid:0.002150,st_valid:0.98136, spec_loss_valid:0.19115,psnr_valid:32.77128,best_epoch:30>
+2024-11-11-20-19: <epoch:33, <total_loss_g_train:0.056083, train_psnr:32.853931, vq_loss_train:0.00046, spec_loss_train:0.01853>
+2024-11-11-20-19: <epoch:33, <recon_loss_valid:0.002194,st_valid:0.98136, spec_loss_valid:0.19069,psnr_valid:32.68037,best_epoch:30>
+2024-11-11-20-19: <epoch:34, <total_loss_g_train:0.055953, train_psnr:32.867302, vq_loss_train:0.00046, spec_loss_train:0.01852>
+2024-11-11-20-19: <epoch:34, <recon_loss_valid:0.002136,st_valid:0.98171, spec_loss_valid:0.19030,psnr_valid:32.79640,best_epoch:34>
+2024-11-11-20-19: <epoch:35, <total_loss_g_train:0.055742, train_psnr:32.885616, vq_loss_train:0.00046, spec_loss_train:0.01849>
+2024-11-11-20-19: <epoch:35, <recon_loss_valid:0.002155,st_valid:0.98162, spec_loss_valid:0.19134,psnr_valid:32.75986,best_epoch:34>
+2024-11-11-20-19: <epoch:36, <total_loss_g_train:0.055625, train_psnr:32.888367, vq_loss_train:0.00046, spec_loss_train:0.01850>
+2024-11-11-20-19: <epoch:36, <recon_loss_valid:0.002125,st_valid:0.98154, spec_loss_valid:0.19073,psnr_valid:32.81987,best_epoch:36>
+2024-11-11-20-19: <epoch:37, <total_loss_g_train:0.055461, train_psnr:32.906078, vq_loss_train:0.00046, spec_loss_train:0.01849>
+2024-11-11-20-19: <epoch:37, <recon_loss_valid:0.002125,st_valid:0.98148, spec_loss_valid:0.19075,psnr_valid:32.81863,best_epoch:36>
+2024-11-11-20-19: <epoch:38, <total_loss_g_train:0.055309, train_psnr:32.913002, vq_loss_train:0.00045, spec_loss_train:0.01848>
+2024-11-11-20-19: <epoch:38, <recon_loss_valid:0.002138,st_valid:0.98164, spec_loss_valid:0.19057,psnr_valid:32.79162,best_epoch:36>
+2024-11-11-20-19: <epoch:39, <total_loss_g_train:0.055209, train_psnr:32.924015, vq_loss_train:0.00045, spec_loss_train:0.01849>
+2024-11-11-20-19: <epoch:39, <recon_loss_valid:0.002129,st_valid:0.98167, spec_loss_valid:0.19076,psnr_valid:32.81008,best_epoch:36>
+2024-11-11-20-19: <epoch:40, <total_loss_g_train:0.055095, train_psnr:32.938519, vq_loss_train:0.00045, spec_loss_train:0.01848>
+2024-11-11-20-19: <epoch:40, <recon_loss_valid:0.002149,st_valid:0.98151, spec_loss_valid:0.19106,psnr_valid:32.76747,best_epoch:36>
+2024-11-11-20-19: <epoch:41, <total_loss_g_train:0.054967, train_psnr:32.946255, vq_loss_train:0.00045, spec_loss_train:0.01847>
+2024-11-11-20-19: <epoch:41, <recon_loss_valid:0.002098,st_valid:0.98175, spec_loss_valid:0.18985,psnr_valid:32.87589,best_epoch:41>
+2024-11-11-20-19: <epoch:42, <total_loss_g_train:0.054862, train_psnr:32.956448, vq_loss_train:0.00045, spec_loss_train:0.01847>
+2024-11-11-20-19: <epoch:42, <recon_loss_valid:0.002100,st_valid:0.98170, spec_loss_valid:0.19065,psnr_valid:32.87146,best_epoch:41>
+2024-11-11-20-19: <epoch:43, <total_loss_g_train:0.054766, train_psnr:32.973911, vq_loss_train:0.00045, spec_loss_train:0.01846>
+2024-11-11-20-19: <epoch:43, <recon_loss_valid:0.002138,st_valid:0.98169, spec_loss_valid:0.19107,psnr_valid:32.79021,best_epoch:41>
+2024-11-11-20-19: <epoch:44, <total_loss_g_train:0.054650, train_psnr:32.973454, vq_loss_train:0.00045, spec_loss_train:0.01845>
+2024-11-11-20-19: <epoch:44, <recon_loss_valid:0.002086,st_valid:0.98175, spec_loss_valid:0.19031,psnr_valid:32.90361,best_epoch:44>
+2024-11-11-20-19: <epoch:45, <total_loss_g_train:0.054517, train_psnr:32.989536, vq_loss_train:0.00045, spec_loss_train:0.01847>
+2024-11-11-20-19: <epoch:45, <recon_loss_valid:0.002112,st_valid:0.98176, spec_loss_valid:0.19020,psnr_valid:32.84749,best_epoch:44>
+2024-11-11-20-19: <epoch:46, <total_loss_g_train:0.054408, train_psnr:33.006001, vq_loss_train:0.00045, spec_loss_train:0.01845>
+2024-11-11-20-19: <epoch:46, <recon_loss_valid:0.002090,st_valid:0.98174, spec_loss_valid:0.18973,psnr_valid:32.89452,best_epoch:44>
+2024-11-11-20-19: <epoch:47, <total_loss_g_train:0.054315, train_psnr:33.007538, vq_loss_train:0.00045, spec_loss_train:0.01844>
+2024-11-11-20-19: <epoch:47, <recon_loss_valid:0.002120,st_valid:0.98183, spec_loss_valid:0.19107,psnr_valid:32.82860,best_epoch:44>
+2024-11-11-20-19: <epoch:48, <total_loss_g_train:0.054236, train_psnr:33.018730, vq_loss_train:0.00045, spec_loss_train:0.01846>
+2024-11-11-20-19: <epoch:48, <recon_loss_valid:0.002093,st_valid:0.98188, spec_loss_valid:0.19070,psnr_valid:32.88775,best_epoch:44>
+2024-11-11-20-19: <epoch:49, <total_loss_g_train:0.054193, train_psnr:33.027489, vq_loss_train:0.00045, spec_loss_train:0.01844>
+2024-11-11-20-19: <epoch:49, <recon_loss_valid:0.002075,st_valid:0.98204, spec_loss_valid:0.18995,psnr_valid:32.92588,best_epoch:49>
+2024-11-11-20-20: <epoch:50, <total_loss_g_train:0.054097, train_psnr:33.038010, vq_loss_train:0.00044, spec_loss_train:0.01843>
+2024-11-11-20-20: <epoch:50, <recon_loss_valid:0.002075,st_valid:0.98189, spec_loss_valid:0.19035,psnr_valid:32.92548,best_epoch:49>
+2024-11-11-20-20: <epoch:51, <total_loss_g_train:0.054095, train_psnr:33.049389, vq_loss_train:0.00045, spec_loss_train:0.01844>
+2024-11-11-20-20: <epoch:51, <recon_loss_valid:0.002075,st_valid:0.98190, spec_loss_valid:0.19005,psnr_valid:32.92696,best_epoch:51>
+2024-11-11-20-20: <epoch:52, <total_loss_g_train:0.054039, train_psnr:33.054302, vq_loss_train:0.00044, spec_loss_train:0.01838>
+2024-11-11-20-20: <epoch:52, <recon_loss_valid:0.002054,st_valid:0.98202, spec_loss_valid:0.19024,psnr_valid:32.97072,best_epoch:52>
+2024-11-11-20-20: <epoch:53, <total_loss_g_train:0.054022, train_psnr:33.059517, vq_loss_train:0.00044, spec_loss_train:0.01838>
+2024-11-11-20-20: <epoch:53, <recon_loss_valid:0.002071,st_valid:0.98195, spec_loss_valid:0.19135,psnr_valid:32.93550,best_epoch:52>
+2024-11-11-20-20: <epoch:54, <total_loss_g_train:0.053940, train_psnr:33.067562, vq_loss_train:0.00044, spec_loss_train:0.01838>
+2024-11-11-20-20: <epoch:54, <recon_loss_valid:0.002084,st_valid:0.98196, spec_loss_valid:0.19159,psnr_valid:32.90558,best_epoch:52>
+2024-11-11-20-20: <epoch:55, <total_loss_g_train:0.053873, train_psnr:33.075100, vq_loss_train:0.00044, spec_loss_train:0.01839>
+2024-11-11-20-20: <epoch:55, <recon_loss_valid:0.002114,st_valid:0.98197, spec_loss_valid:0.19169,psnr_valid:32.84166,best_epoch:52>
+2024-11-11-20-20: <epoch:56, <total_loss_g_train:0.053835, train_psnr:33.080582, vq_loss_train:0.00044, spec_loss_train:0.01839>
+2024-11-11-20-20: <epoch:56, <recon_loss_valid:0.002060,st_valid:0.98198, spec_loss_valid:0.19093,psnr_valid:32.95677,best_epoch:52>
+2024-11-11-20-20: <epoch:57, <total_loss_g_train:0.053738, train_psnr:33.086185, vq_loss_train:0.00044, spec_loss_train:0.01838>
+2024-11-11-20-20: <epoch:57, <recon_loss_valid:0.002054,st_valid:0.98202, spec_loss_valid:0.19134,psnr_valid:32.97125,best_epoch:57>
+2024-11-11-20-20: <epoch:58, <total_loss_g_train:0.053691, train_psnr:33.098026, vq_loss_train:0.00044, spec_loss_train:0.01836>
+2024-11-11-20-20: <epoch:58, <recon_loss_valid:0.002067,st_valid:0.98210, spec_loss_valid:0.19040,psnr_valid:32.94120,best_epoch:57>
+2024-11-11-20-20: <epoch:59, <total_loss_g_train:0.053645, train_psnr:33.105541, vq_loss_train:0.00044, spec_loss_train:0.01834>
+2024-11-11-20-20: <epoch:59, <recon_loss_valid:0.002035,st_valid:0.98214, spec_loss_valid:0.19060,psnr_valid:33.01406,best_epoch:59>
+2024-11-11-20-20: <epoch:60, <total_loss_g_train:0.053614, train_psnr:33.107269, vq_loss_train:0.00044, spec_loss_train:0.01837>
+2024-11-11-20-20: <epoch:60, <recon_loss_valid:0.002070,st_valid:0.98218, spec_loss_valid:0.19066,psnr_valid:32.93864,best_epoch:59>
+2024-11-11-20-20: <epoch:61, <total_loss_g_train:0.053576, train_psnr:33.115738, vq_loss_train:0.00044, spec_loss_train:0.01839>
+2024-11-11-20-20: <epoch:61, <recon_loss_valid:0.002074,st_valid:0.98212, spec_loss_valid:0.19049,psnr_valid:32.92983,best_epoch:59>
+2024-11-11-20-20: <epoch:62, <total_loss_g_train:0.053485, train_psnr:33.126244, vq_loss_train:0.00044, spec_loss_train:0.01834>
+2024-11-11-20-20: <epoch:62, <recon_loss_valid:0.002036,st_valid:0.98225, spec_loss_valid:0.19080,psnr_valid:33.01426,best_epoch:62>
+2024-11-11-20-20: <epoch:63, <total_loss_g_train:0.053419, train_psnr:33.131786, vq_loss_train:0.00044, spec_loss_train:0.01836>
+2024-11-11-20-20: <epoch:63, <recon_loss_valid:0.002037,st_valid:0.98216, spec_loss_valid:0.19079,psnr_valid:33.01055,best_epoch:62>
+2024-11-11-20-20: <epoch:64, <total_loss_g_train:0.053401, train_psnr:33.136398, vq_loss_train:0.00044, spec_loss_train:0.01836>
+2024-11-11-20-20: <epoch:64, <recon_loss_valid:0.002062,st_valid:0.98223, spec_loss_valid:0.19086,psnr_valid:32.95682,best_epoch:62>
+2024-11-11-20-20: <epoch:65, <total_loss_g_train:0.053365, train_psnr:33.145123, vq_loss_train:0.00044, spec_loss_train:0.01836>
+2024-11-11-20-20: <epoch:65, <recon_loss_valid:0.002034,st_valid:0.98229, spec_loss_valid:0.19001,psnr_valid:33.01501,best_epoch:65>
+2024-11-11-20-20: <epoch:66, <total_loss_g_train:0.053277, train_psnr:33.149193, vq_loss_train:0.00044, spec_loss_train:0.01837>
+2024-11-11-20-20: <epoch:66, <recon_loss_valid:0.002033,st_valid:0.98228, spec_loss_valid:0.19004,psnr_valid:33.01866,best_epoch:66>
+2024-11-11-20-20: <epoch:67, <total_loss_g_train:0.053229, train_psnr:33.154278, vq_loss_train:0.00044, spec_loss_train:0.01837>
+2024-11-11-20-20: <epoch:67, <recon_loss_valid:0.002049,st_valid:0.98230, spec_loss_valid:0.19066,psnr_valid:32.98392,best_epoch:66>
+2024-11-11-20-20: <epoch:68, <total_loss_g_train:0.053198, train_psnr:33.159832, vq_loss_train:0.00044, spec_loss_train:0.01839>
+2024-11-11-20-20: <epoch:68, <recon_loss_valid:0.002023,st_valid:0.98232, spec_loss_valid:0.19016,psnr_valid:33.03889,best_epoch:68>
+2024-11-11-20-20: <epoch:69, <total_loss_g_train:0.053153, train_psnr:33.167252, vq_loss_train:0.00044, spec_loss_train:0.01837>
+2024-11-11-20-20: <epoch:69, <recon_loss_valid:0.002022,st_valid:0.98228, spec_loss_valid:0.18999,psnr_valid:33.04333,best_epoch:69>
+2024-11-11-20-20: <epoch:70, <total_loss_g_train:0.053110, train_psnr:33.168777, vq_loss_train:0.00044, spec_loss_train:0.01840>
+2024-11-11-20-20: <epoch:70, <recon_loss_valid:0.002031,st_valid:0.98234, spec_loss_valid:0.19063,psnr_valid:33.02537,best_epoch:69>
+2024-11-11-20-20: <epoch:71, <total_loss_g_train:0.053101, train_psnr:33.175110, vq_loss_train:0.00044, spec_loss_train:0.01838>
+2024-11-11-20-20: <epoch:71, <recon_loss_valid:0.002039,st_valid:0.98235, spec_loss_valid:0.19054,psnr_valid:33.00560,best_epoch:69>
+2024-11-11-20-20: <epoch:72, <total_loss_g_train:0.053025, train_psnr:33.178398, vq_loss_train:0.00044, spec_loss_train:0.01838>
+2024-11-11-20-20: <epoch:72, <recon_loss_valid:0.002005,st_valid:0.98243, spec_loss_valid:0.19000,psnr_valid:33.08108,best_epoch:72>
+2024-11-11-20-20: <epoch:73, <total_loss_g_train:0.053003, train_psnr:33.185623, vq_loss_train:0.00044, spec_loss_train:0.01838>
+2024-11-11-20-20: <epoch:73, <recon_loss_valid:0.002007,st_valid:0.98243, spec_loss_valid:0.18960,psnr_valid:33.07567,best_epoch:72>
+2024-11-11-20-20: <epoch:74, <total_loss_g_train:0.052965, train_psnr:33.188705, vq_loss_train:0.00044, spec_loss_train:0.01839>
+2024-11-11-20-20: <epoch:74, <recon_loss_valid:0.002006,st_valid:0.98246, spec_loss_valid:0.18972,psnr_valid:33.07873,best_epoch:72>
+2024-11-11-20-20: <epoch:75, <total_loss_g_train:0.052911, train_psnr:33.193844, vq_loss_train:0.00044, spec_loss_train:0.01837>
+2024-11-11-20-20: <epoch:75, <recon_loss_valid:0.002010,st_valid:0.98247, spec_loss_valid:0.19003,psnr_valid:33.06819,best_epoch:72>
+2024-11-11-20-20: <epoch:76, <total_loss_g_train:0.052867, train_psnr:33.195667, vq_loss_train:0.00044, spec_loss_train:0.01840>
+2024-11-11-20-20: <epoch:76, <recon_loss_valid:0.002004,st_valid:0.98250, spec_loss_valid:0.18947,psnr_valid:33.08306,best_epoch:76>
+2024-11-11-20-20: <epoch:77, <total_loss_g_train:0.052784, train_psnr:33.203560, vq_loss_train:0.00044, spec_loss_train:0.01838>
+2024-11-11-20-20: <epoch:77, <recon_loss_valid:0.002001,st_valid:0.98251, spec_loss_valid:0.18976,psnr_valid:33.08904,best_epoch:77>
+2024-11-11-20-20: <epoch:78, <total_loss_g_train:0.052757, train_psnr:33.206455, vq_loss_train:0.00043, spec_loss_train:0.01838>
+2024-11-11-20-20: <epoch:78, <recon_loss_valid:0.001998,st_valid:0.98250, spec_loss_valid:0.18982,psnr_valid:33.09718,best_epoch:78>
+2024-11-11-20-20: <epoch:79, <total_loss_g_train:0.052681, train_psnr:33.210812, vq_loss_train:0.00043, spec_loss_train:0.01838>
+2024-11-11-20-20: <epoch:79, <recon_loss_valid:0.001999,st_valid:0.98252, spec_loss_valid:0.18983,psnr_valid:33.09463,best_epoch:78>
+2024-11-11-20-21: <epoch:80, <total_loss_g_train:0.052620, train_psnr:33.215527, vq_loss_train:0.00043, spec_loss_train:0.01837>
+2024-11-11-20-21: <epoch:80, <recon_loss_valid:0.002013,st_valid:0.98249, spec_loss_valid:0.18977,psnr_valid:33.06204,best_epoch:78>
+2024-11-11-20-21: <epoch:81, <total_loss_g_train:0.052567, train_psnr:33.219421, vq_loss_train:0.00043, spec_loss_train:0.01838>
+2024-11-11-20-21: <epoch:81, <recon_loss_valid:0.001997,st_valid:0.98256, spec_loss_valid:0.18973,psnr_valid:33.09893,best_epoch:81>
+2024-11-11-20-21: <epoch:82, <total_loss_g_train:0.052515, train_psnr:33.223343, vq_loss_train:0.00043, spec_loss_train:0.01836>
+2024-11-11-20-21: <epoch:82, <recon_loss_valid:0.001995,st_valid:0.98253, spec_loss_valid:0.18973,psnr_valid:33.10337,best_epoch:82>
+2024-11-11-20-21: <epoch:83, <total_loss_g_train:0.052496, train_psnr:33.225285, vq_loss_train:0.00043, spec_loss_train:0.01838>
+2024-11-11-20-21: <epoch:83, <recon_loss_valid:0.001993,st_valid:0.98255, spec_loss_valid:0.18936,psnr_valid:33.10734,best_epoch:83>
+2024-11-11-20-21: <epoch:84, <total_loss_g_train:0.052460, train_psnr:33.228939, vq_loss_train:0.00043, spec_loss_train:0.01837>
+2024-11-11-20-21: <epoch:84, <recon_loss_valid:0.002000,st_valid:0.98252, spec_loss_valid:0.18981,psnr_valid:33.09026,best_epoch:83>
+2024-11-11-20-21: <epoch:85, <total_loss_g_train:0.052425, train_psnr:33.235092, vq_loss_train:0.00043, spec_loss_train:0.01836>
+2024-11-11-20-21: <epoch:85, <recon_loss_valid:0.001996,st_valid:0.98253, spec_loss_valid:0.18976,psnr_valid:33.10069,best_epoch:83>
+2024-11-11-20-21: <epoch:86, <total_loss_g_train:0.052406, train_psnr:33.239357, vq_loss_train:0.00043, spec_loss_train:0.01836>
+2024-11-11-20-21: <epoch:86, <recon_loss_valid:0.001990,st_valid:0.98255, spec_loss_valid:0.18957,psnr_valid:33.11280,best_epoch:86>
+2024-11-11-20-21: <epoch:87, <total_loss_g_train:0.052377, train_psnr:33.240631, vq_loss_train:0.00043, spec_loss_train:0.01836>
+2024-11-11-20-21: <epoch:87, <recon_loss_valid:0.001990,st_valid:0.98260, spec_loss_valid:0.18991,psnr_valid:33.11345,best_epoch:87>
+2024-11-11-20-21: <epoch:88, <total_loss_g_train:0.052387, train_psnr:33.246117, vq_loss_train:0.00043, spec_loss_train:0.01839>
+2024-11-11-20-21: <epoch:88, <recon_loss_valid:0.001992,st_valid:0.98257, spec_loss_valid:0.18990,psnr_valid:33.11014,best_epoch:87>
+2024-11-11-20-21: <epoch:89, <total_loss_g_train:0.052376, train_psnr:33.247044, vq_loss_train:0.00043, spec_loss_train:0.01838>
+2024-11-11-20-21: <epoch:89, <recon_loss_valid:0.001984,st_valid:0.98264, spec_loss_valid:0.18933,psnr_valid:33.12624,best_epoch:89>
+2024-11-11-20-21: <epoch:90, <total_loss_g_train:0.052328, train_psnr:33.249783, vq_loss_train:0.00043, spec_loss_train:0.01840>
+2024-11-11-20-21: <epoch:90, <recon_loss_valid:0.001990,st_valid:0.98268, spec_loss_valid:0.18914,psnr_valid:33.11299,best_epoch:89>
+2024-11-11-20-21: <epoch:91, <total_loss_g_train:0.052293, train_psnr:33.251461, vq_loss_train:0.00043, spec_loss_train:0.01838>
+2024-11-11-20-21: <epoch:91, <recon_loss_valid:0.001980,st_valid:0.98263, spec_loss_valid:0.18939,psnr_valid:33.13466,best_epoch:91>
+2024-11-11-20-21: <epoch:92, <total_loss_g_train:0.052279, train_psnr:33.255497, vq_loss_train:0.00043, spec_loss_train:0.01838>
+2024-11-11-20-21: <epoch:92, <recon_loss_valid:0.001980,st_valid:0.98266, spec_loss_valid:0.18948,psnr_valid:33.13505,best_epoch:92>
+2024-11-11-20-21: <epoch:93, <total_loss_g_train:0.052259, train_psnr:33.261578, vq_loss_train:0.00043, spec_loss_train:0.01839>
+2024-11-11-20-21: <epoch:93, <recon_loss_valid:0.001984,st_valid:0.98270, spec_loss_valid:0.18922,psnr_valid:33.12707,best_epoch:92>
+2024-11-11-20-21: <epoch:94, <total_loss_g_train:0.052202, train_psnr:33.264713, vq_loss_train:0.00043, spec_loss_train:0.01838>
+2024-11-11-20-21: <epoch:94, <recon_loss_valid:0.001975,st_valid:0.98274, spec_loss_valid:0.18876,psnr_valid:33.14718,best_epoch:94>
+2024-11-11-20-21: <epoch:95, <total_loss_g_train:0.052181, train_psnr:33.269154, vq_loss_train:0.00043, spec_loss_train:0.01839>
+2024-11-11-20-21: <epoch:95, <recon_loss_valid:0.001981,st_valid:0.98269, spec_loss_valid:0.18972,psnr_valid:33.13260,best_epoch:94>
+2024-11-11-20-21: <epoch:96, <total_loss_g_train:0.052173, train_psnr:33.270092, vq_loss_train:0.00043, spec_loss_train:0.01839>
+2024-11-11-20-21: <epoch:96, <recon_loss_valid:0.001974,st_valid:0.98272, spec_loss_valid:0.18978,psnr_valid:33.14839,best_epoch:96>
+2024-11-11-20-21: <epoch:97, <total_loss_g_train:0.052137, train_psnr:33.271854, vq_loss_train:0.00043, spec_loss_train:0.01838>
+2024-11-11-20-21: <epoch:97, <recon_loss_valid:0.001981,st_valid:0.98273, spec_loss_valid:0.19070,psnr_valid:33.13243,best_epoch:96>
+2024-11-11-20-21: <epoch:98, <total_loss_g_train:0.052128, train_psnr:33.275009, vq_loss_train:0.00043, spec_loss_train:0.01839>
+2024-11-11-20-21: <epoch:98, <recon_loss_valid:0.001985,st_valid:0.98271, spec_loss_valid:0.19055,psnr_valid:33.12256,best_epoch:96>
+2024-11-11-20-21: <epoch:99, <total_loss_g_train:0.052077, train_psnr:33.278893, vq_loss_train:0.00043, spec_loss_train:0.01837>
+2024-11-11-20-21: <epoch:99, <recon_loss_valid:0.001980,st_valid:0.98272, spec_loss_valid:0.19024,psnr_valid:33.13514,best_epoch:96>
+2024-11-11-20-21: <epoch:100, <total_loss_g_train:0.052062, train_psnr:33.280212, vq_loss_train:0.00043, spec_loss_train:0.01837>
+2024-11-11-20-21: <epoch:100, <recon_loss_valid:0.001978,st_valid:0.98269, spec_loss_valid:0.19101,psnr_valid:33.13803,best_epoch:96>
+2024-11-11-20-21: <epoch:101, <total_loss_g_train:0.052073, train_psnr:33.283451, vq_loss_train:0.00043, spec_loss_train:0.01836>
+2024-11-11-20-21: <epoch:101, <recon_loss_valid:0.001980,st_valid:0.98270, spec_loss_valid:0.19067,psnr_valid:33.13252,best_epoch:96>
+2024-11-11-20-21: <epoch:102, <total_loss_g_train:0.052061, train_psnr:33.286064, vq_loss_train:0.00043, spec_loss_train:0.01837>
+2024-11-11-20-21: <epoch:102, <recon_loss_valid:0.001978,st_valid:0.98272, spec_loss_valid:0.19080,psnr_valid:33.13812,best_epoch:96>
+2024-11-11-20-21: <epoch:103, <total_loss_g_train:0.052048, train_psnr:33.288166, vq_loss_train:0.00043, spec_loss_train:0.01837>
+2024-11-11-20-21: <epoch:103, <recon_loss_valid:0.001975,st_valid:0.98273, spec_loss_valid:0.19045,psnr_valid:33.14512,best_epoch:96>
+2024-11-11-20-21: <epoch:104, <total_loss_g_train:0.052013, train_psnr:33.291702, vq_loss_train:0.00043, spec_loss_train:0.01837>
+2024-11-11-20-21: <epoch:104, <recon_loss_valid:0.001973,st_valid:0.98277, spec_loss_valid:0.19031,psnr_valid:33.14809,best_epoch:96>
+2024-11-11-20-21: <epoch:105, <total_loss_g_train:0.051990, train_psnr:33.294022, vq_loss_train:0.00043, spec_loss_train:0.01837>
+2024-11-11-20-21: <epoch:105, <recon_loss_valid:0.001969,st_valid:0.98278, spec_loss_valid:0.19035,psnr_valid:33.15677,best_epoch:105>
+2024-11-11-20-21: <epoch:106, <total_loss_g_train:0.051951, train_psnr:33.296661, vq_loss_train:0.00043, spec_loss_train:0.01837>
+2024-11-11-20-21: <epoch:106, <recon_loss_valid:0.001973,st_valid:0.98276, spec_loss_valid:0.19070,psnr_valid:33.14872,best_epoch:105>
+2024-11-11-20-21: <epoch:107, <total_loss_g_train:0.051934, train_psnr:33.297916, vq_loss_train:0.00043, spec_loss_train:0.01836>
+2024-11-11-20-21: <epoch:107, <recon_loss_valid:0.001973,st_valid:0.98276, spec_loss_valid:0.19044,psnr_valid:33.14941,best_epoch:105>
+2024-11-11-20-21: <epoch:108, <total_loss_g_train:0.051925, train_psnr:33.299774, vq_loss_train:0.00043, spec_loss_train:0.01837>
+2024-11-11-20-21: <epoch:108, <recon_loss_valid:0.001969,st_valid:0.98278, spec_loss_valid:0.19086,psnr_valid:33.15946,best_epoch:108>
+2024-11-11-20-21: <epoch:109, <total_loss_g_train:0.051900, train_psnr:33.301197, vq_loss_train:0.00043, spec_loss_train:0.01837>
+2024-11-11-20-21: <epoch:109, <recon_loss_valid:0.001969,st_valid:0.98280, spec_loss_valid:0.19026,psnr_valid:33.15903,best_epoch:108>
+2024-11-11-20-22: <epoch:110, <total_loss_g_train:0.051875, train_psnr:33.304619, vq_loss_train:0.00043, spec_loss_train:0.01837>
+2024-11-11-20-22: <epoch:110, <recon_loss_valid:0.001967,st_valid:0.98282, spec_loss_valid:0.18989,psnr_valid:33.16315,best_epoch:110>
+2024-11-11-20-22: <epoch:111, <total_loss_g_train:0.051856, train_psnr:33.306641, vq_loss_train:0.00043, spec_loss_train:0.01837>
+2024-11-11-20-22: <epoch:111, <recon_loss_valid:0.001969,st_valid:0.98279, spec_loss_valid:0.19055,psnr_valid:33.15992,best_epoch:110>
+2024-11-11-20-22: <epoch:112, <total_loss_g_train:0.051832, train_psnr:33.308151, vq_loss_train:0.00043, spec_loss_train:0.01837>
+2024-11-11-20-22: <epoch:112, <recon_loss_valid:0.001971,st_valid:0.98279, spec_loss_valid:0.18993,psnr_valid:33.15437,best_epoch:110>
+2024-11-11-20-22: <epoch:113, <total_loss_g_train:0.051794, train_psnr:33.311592, vq_loss_train:0.00043, spec_loss_train:0.01836>
+2024-11-11-20-22: <epoch:113, <recon_loss_valid:0.001973,st_valid:0.98277, spec_loss_valid:0.19012,psnr_valid:33.14917,best_epoch:110>
+2024-11-11-20-22: <epoch:114, <total_loss_g_train:0.051778, train_psnr:33.313187, vq_loss_train:0.00043, spec_loss_train:0.01836>
+2024-11-11-20-22: <epoch:114, <recon_loss_valid:0.001969,st_valid:0.98280, spec_loss_valid:0.19039,psnr_valid:33.15861,best_epoch:110>
+2024-11-11-20-22: <epoch:115, <total_loss_g_train:0.051769, train_psnr:33.315868, vq_loss_train:0.00043, spec_loss_train:0.01836>
+2024-11-11-20-22: <epoch:115, <recon_loss_valid:0.001968,st_valid:0.98282, spec_loss_valid:0.19010,psnr_valid:33.16029,best_epoch:110>
+2024-11-11-20-22: <epoch:116, <total_loss_g_train:0.051735, train_psnr:33.317360, vq_loss_train:0.00043, spec_loss_train:0.01836>
+2024-11-11-20-22: <epoch:116, <recon_loss_valid:0.001967,st_valid:0.98283, spec_loss_valid:0.19023,psnr_valid:33.16234,best_epoch:110>
+2024-11-11-20-22: <epoch:117, <total_loss_g_train:0.051726, train_psnr:33.318329, vq_loss_train:0.00043, spec_loss_train:0.01836>
+2024-11-11-20-22: <epoch:117, <recon_loss_valid:0.001962,st_valid:0.98285, spec_loss_valid:0.19039,psnr_valid:33.17418,best_epoch:117>
+2024-11-11-20-22: <epoch:118, <total_loss_g_train:0.051716, train_psnr:33.320637, vq_loss_train:0.00043, spec_loss_train:0.01836>
+2024-11-11-20-22: <epoch:118, <recon_loss_valid:0.001961,st_valid:0.98286, spec_loss_valid:0.19020,psnr_valid:33.17691,best_epoch:118>
+2024-11-11-20-22: <epoch:119, <total_loss_g_train:0.051700, train_psnr:33.321926, vq_loss_train:0.00043, spec_loss_train:0.01834>
+2024-11-11-20-22: <epoch:119, <recon_loss_valid:0.001961,st_valid:0.98285, spec_loss_valid:0.19046,psnr_valid:33.17648,best_epoch:118>
+2024-11-11-20-22: <epoch:120, <total_loss_g_train:0.051691, train_psnr:33.324444, vq_loss_train:0.00043, spec_loss_train:0.01836>
+2024-11-11-20-22: <epoch:120, <recon_loss_valid:0.001959,st_valid:0.98286, spec_loss_valid:0.19043,psnr_valid:33.18136,best_epoch:120>
+2024-11-11-20-22: <epoch:121, <total_loss_g_train:0.051672, train_psnr:33.325481, vq_loss_train:0.00043, spec_loss_train:0.01835>
+2024-11-11-20-22: <epoch:121, <recon_loss_valid:0.001960,st_valid:0.98286, spec_loss_valid:0.19030,psnr_valid:33.17877,best_epoch:120>
+2024-11-11-20-22: <epoch:122, <total_loss_g_train:0.051658, train_psnr:33.327126, vq_loss_train:0.00043, spec_loss_train:0.01835>
+2024-11-11-20-22: <epoch:122, <recon_loss_valid:0.001959,st_valid:0.98287, spec_loss_valid:0.19025,psnr_valid:33.17955,best_epoch:120>
+2024-11-11-20-22: <epoch:123, <total_loss_g_train:0.051633, train_psnr:33.331348, vq_loss_train:0.00043, spec_loss_train:0.01837>
+2024-11-11-20-22: <epoch:123, <recon_loss_valid:0.001957,st_valid:0.98290, spec_loss_valid:0.19066,psnr_valid:33.18410,best_epoch:123>
+2024-11-11-20-22: <epoch:124, <total_loss_g_train:0.051619, train_psnr:33.332989, vq_loss_train:0.00043, spec_loss_train:0.01837>
+2024-11-11-20-22: <epoch:124, <recon_loss_valid:0.001956,st_valid:0.98292, spec_loss_valid:0.19031,psnr_valid:33.18921,best_epoch:124>
+2024-11-11-20-22: <epoch:125, <total_loss_g_train:0.051614, train_psnr:33.334354, vq_loss_train:0.00043, spec_loss_train:0.01837>
+2024-11-11-20-22: <epoch:125, <recon_loss_valid:0.001958,st_valid:0.98291, spec_loss_valid:0.19031,psnr_valid:33.18417,best_epoch:124>
+2024-11-11-20-22: <epoch:126, <total_loss_g_train:0.051604, train_psnr:33.336456, vq_loss_train:0.00043, spec_loss_train:0.01836>
+2024-11-11-20-22: <epoch:126, <recon_loss_valid:0.001957,st_valid:0.98289, spec_loss_valid:0.19050,psnr_valid:33.18527,best_epoch:124>
+2024-11-11-20-22: <epoch:127, <total_loss_g_train:0.051598, train_psnr:33.337856, vq_loss_train:0.00043, spec_loss_train:0.01835>
+2024-11-11-20-22: <epoch:127, <recon_loss_valid:0.001959,st_valid:0.98290, spec_loss_valid:0.19067,psnr_valid:33.18064,best_epoch:124>
+2024-11-11-20-22: <epoch:128, <total_loss_g_train:0.051574, train_psnr:33.339676, vq_loss_train:0.00043, spec_loss_train:0.01837>
+2024-11-11-20-22: <epoch:128, <recon_loss_valid:0.001956,st_valid:0.98291, spec_loss_valid:0.19083,psnr_valid:33.18852,best_epoch:124>
+2024-11-11-20-22: <epoch:129, <total_loss_g_train:0.051568, train_psnr:33.340775, vq_loss_train:0.00043, spec_loss_train:0.01836>
+2024-11-11-20-22: <epoch:129, <recon_loss_valid:0.001956,st_valid:0.98291, spec_loss_valid:0.19104,psnr_valid:33.18833,best_epoch:124>
+2024-11-11-20-22: <epoch:130, <total_loss_g_train:0.051553, train_psnr:33.342125, vq_loss_train:0.00043, spec_loss_train:0.01836>
+2024-11-11-20-22: <epoch:130, <recon_loss_valid:0.001955,st_valid:0.98293, spec_loss_valid:0.19104,psnr_valid:33.18999,best_epoch:130>
+2024-11-11-20-22: <epoch:131, <total_loss_g_train:0.051534, train_psnr:33.344185, vq_loss_train:0.00043, spec_loss_train:0.01837>
+2024-11-11-20-22: <epoch:131, <recon_loss_valid:0.001957,st_valid:0.98294, spec_loss_valid:0.19029,psnr_valid:33.18648,best_epoch:130>
+2024-11-11-20-22: <epoch:132, <total_loss_g_train:0.051523, train_psnr:33.346050, vq_loss_train:0.00043, spec_loss_train:0.01836>
+2024-11-11-20-22: <epoch:132, <recon_loss_valid:0.001952,st_valid:0.98295, spec_loss_valid:0.19021,psnr_valid:33.19558,best_epoch:132>
+2024-11-11-20-22: <epoch:133, <total_loss_g_train:0.051530, train_psnr:33.347530, vq_loss_train:0.00043, spec_loss_train:0.01837>
+2024-11-11-20-22: <epoch:133, <recon_loss_valid:0.001954,st_valid:0.98295, spec_loss_valid:0.19012,psnr_valid:33.19224,best_epoch:132>
+2024-11-11-20-22: <epoch:134, <total_loss_g_train:0.051530, train_psnr:33.348743, vq_loss_train:0.00043, spec_loss_train:0.01837>
+2024-11-11-20-22: <epoch:134, <recon_loss_valid:0.001953,st_valid:0.98293, spec_loss_valid:0.19013,psnr_valid:33.19399,best_epoch:132>
+2024-11-11-20-22: <epoch:135, <total_loss_g_train:0.051509, train_psnr:33.351311, vq_loss_train:0.00043, spec_loss_train:0.01836>
+2024-11-11-20-22: <epoch:135, <recon_loss_valid:0.001954,st_valid:0.98295, spec_loss_valid:0.19016,psnr_valid:33.19333,best_epoch:132>
+2024-11-11-20-22: <epoch:136, <total_loss_g_train:0.051512, train_psnr:33.352985, vq_loss_train:0.00043, spec_loss_train:0.01837>
+2024-11-11-20-22: <epoch:136, <recon_loss_valid:0.001956,st_valid:0.98294, spec_loss_valid:0.19020,psnr_valid:33.19063,best_epoch:132>
+2024-11-11-20-22: <epoch:137, <total_loss_g_train:0.051501, train_psnr:33.354530, vq_loss_train:0.00043, spec_loss_train:0.01836>
+2024-11-11-20-22: <epoch:137, <recon_loss_valid:0.001954,st_valid:0.98296, spec_loss_valid:0.19030,psnr_valid:33.19436,best_epoch:132>
+2024-11-11-20-22: <epoch:138, <total_loss_g_train:0.051504, train_psnr:33.356426, vq_loss_train:0.00043, spec_loss_train:0.01837>
+2024-11-11-20-22: <epoch:138, <recon_loss_valid:0.001953,st_valid:0.98295, spec_loss_valid:0.19018,psnr_valid:33.19559,best_epoch:138>
+2024-11-11-20-23: <epoch:139, <total_loss_g_train:0.051480, train_psnr:33.359150, vq_loss_train:0.00043, spec_loss_train:0.01836>
+2024-11-11-20-23: <epoch:139, <recon_loss_valid:0.001953,st_valid:0.98297, spec_loss_valid:0.19005,psnr_valid:33.19713,best_epoch:139>
+2024-11-11-20-23: <epoch:140, <total_loss_g_train:0.051480, train_psnr:33.359367, vq_loss_train:0.00043, spec_loss_train:0.01836>
+2024-11-11-20-23: <epoch:140, <recon_loss_valid:0.001951,st_valid:0.98298, spec_loss_valid:0.19015,psnr_valid:33.20033,best_epoch:140>
+2024-11-11-20-23: <epoch:141, <total_loss_g_train:0.051471, train_psnr:33.360233, vq_loss_train:0.00043, spec_loss_train:0.01837>
+2024-11-11-20-23: <epoch:141, <recon_loss_valid:0.001951,st_valid:0.98299, spec_loss_valid:0.18993,psnr_valid:33.19947,best_epoch:140>
+2024-11-11-20-23: <epoch:142, <total_loss_g_train:0.051476, train_psnr:33.362038, vq_loss_train:0.00043, spec_loss_train:0.01838>
+2024-11-11-20-23: <epoch:142, <recon_loss_valid:0.001949,st_valid:0.98299, spec_loss_valid:0.19022,psnr_valid:33.20426,best_epoch:142>
+2024-11-11-20-23: <epoch:143, <total_loss_g_train:0.051466, train_psnr:33.364269, vq_loss_train:0.00043, spec_loss_train:0.01836>
+2024-11-11-20-23: <epoch:143, <recon_loss_valid:0.001950,st_valid:0.98301, spec_loss_valid:0.19012,psnr_valid:33.20147,best_epoch:142>
+2024-11-11-20-23: <epoch:144, <total_loss_g_train:0.051461, train_psnr:33.365929, vq_loss_train:0.00043, spec_loss_train:0.01836>
+2024-11-11-20-23: <epoch:144, <recon_loss_valid:0.001950,st_valid:0.98300, spec_loss_valid:0.19005,psnr_valid:33.20285,best_epoch:142>
+2024-11-11-20-23: <epoch:145, <total_loss_g_train:0.051434, train_psnr:33.367485, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-23: <epoch:145, <recon_loss_valid:0.001951,st_valid:0.98298, spec_loss_valid:0.19038,psnr_valid:33.19969,best_epoch:142>
+2024-11-11-20-23: <epoch:146, <total_loss_g_train:0.051421, train_psnr:33.368412, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-23: <epoch:146, <recon_loss_valid:0.001949,st_valid:0.98299, spec_loss_valid:0.19048,psnr_valid:33.20364,best_epoch:142>
+2024-11-11-20-23: <epoch:147, <total_loss_g_train:0.051423, train_psnr:33.369289, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-23: <epoch:147, <recon_loss_valid:0.001951,st_valid:0.98300, spec_loss_valid:0.19045,psnr_valid:33.20041,best_epoch:142>
+2024-11-11-20-23: <epoch:148, <total_loss_g_train:0.051423, train_psnr:33.371105, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-23: <epoch:148, <recon_loss_valid:0.001950,st_valid:0.98300, spec_loss_valid:0.19034,psnr_valid:33.20164,best_epoch:142>
+2024-11-11-20-23: <epoch:149, <total_loss_g_train:0.051405, train_psnr:33.373154, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-23: <epoch:149, <recon_loss_valid:0.001950,st_valid:0.98300, spec_loss_valid:0.19028,psnr_valid:33.20277,best_epoch:142>
+2024-11-11-20-23: <epoch:150, <total_loss_g_train:0.051392, train_psnr:33.374504, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-23: <epoch:150, <recon_loss_valid:0.001949,st_valid:0.98298, spec_loss_valid:0.19050,psnr_valid:33.20353,best_epoch:142>
+2024-11-11-20-23: <epoch:151, <total_loss_g_train:0.051387, train_psnr:33.375698, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-23: <epoch:151, <recon_loss_valid:0.001947,st_valid:0.98300, spec_loss_valid:0.19056,psnr_valid:33.20844,best_epoch:151>
+2024-11-11-20-23: <epoch:152, <total_loss_g_train:0.051370, train_psnr:33.377769, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-23: <epoch:152, <recon_loss_valid:0.001947,st_valid:0.98302, spec_loss_valid:0.19060,psnr_valid:33.20953,best_epoch:152>
+2024-11-11-20-23: <epoch:153, <total_loss_g_train:0.051361, train_psnr:33.378811, vq_loss_train:0.00042, spec_loss_train:0.01836>
+2024-11-11-20-23: <epoch:153, <recon_loss_valid:0.001946,st_valid:0.98302, spec_loss_valid:0.19033,psnr_valid:33.21098,best_epoch:153>
+2024-11-11-20-23: <epoch:154, <total_loss_g_train:0.051354, train_psnr:33.380955, vq_loss_train:0.00042, spec_loss_train:0.01835>
+2024-11-11-20-23: <epoch:154, <recon_loss_valid:0.001946,st_valid:0.98303, spec_loss_valid:0.19005,psnr_valid:33.21213,best_epoch:154>
+2024-11-11-20-23: <epoch:155, <total_loss_g_train:0.051348, train_psnr:33.382584, vq_loss_train:0.00042, spec_loss_train:0.01835>
+2024-11-11-20-23: <epoch:155, <recon_loss_valid:0.001945,st_valid:0.98303, spec_loss_valid:0.19008,psnr_valid:33.21232,best_epoch:155>
+2024-11-11-20-23: <epoch:156, <total_loss_g_train:0.051331, train_psnr:33.383278, vq_loss_train:0.00042, spec_loss_train:0.01836>
+2024-11-11-20-23: <epoch:156, <recon_loss_valid:0.001944,st_valid:0.98303, spec_loss_valid:0.19025,psnr_valid:33.21472,best_epoch:156>
+2024-11-11-20-23: <epoch:157, <total_loss_g_train:0.051327, train_psnr:33.385540, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-23: <epoch:157, <recon_loss_valid:0.001945,st_valid:0.98302, spec_loss_valid:0.19062,psnr_valid:33.21372,best_epoch:156>
+2024-11-11-20-23: <epoch:158, <total_loss_g_train:0.051316, train_psnr:33.387081, vq_loss_train:0.00042, spec_loss_train:0.01836>
+2024-11-11-20-23: <epoch:158, <recon_loss_valid:0.001944,st_valid:0.98304, spec_loss_valid:0.19035,psnr_valid:33.21638,best_epoch:158>
+2024-11-11-20-23: <epoch:159, <total_loss_g_train:0.051314, train_psnr:33.388271, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-23: <epoch:159, <recon_loss_valid:0.001944,st_valid:0.98304, spec_loss_valid:0.19039,psnr_valid:33.21428,best_epoch:158>
+2024-11-11-20-23: <epoch:160, <total_loss_g_train:0.051311, train_psnr:33.389481, vq_loss_train:0.00042, spec_loss_train:0.01839>
+2024-11-11-20-23: <epoch:160, <recon_loss_valid:0.001943,st_valid:0.98305, spec_loss_valid:0.19026,psnr_valid:33.21831,best_epoch:160>
+2024-11-11-20-23: <epoch:161, <total_loss_g_train:0.051311, train_psnr:33.391094, vq_loss_train:0.00042, spec_loss_train:0.01839>
+2024-11-11-20-23: <epoch:161, <recon_loss_valid:0.001942,st_valid:0.98306, spec_loss_valid:0.19018,psnr_valid:33.21905,best_epoch:161>
+2024-11-11-20-23: <epoch:162, <total_loss_g_train:0.051304, train_psnr:33.392693, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-23: <epoch:162, <recon_loss_valid:0.001941,st_valid:0.98308, spec_loss_valid:0.19012,psnr_valid:33.22159,best_epoch:162>
+2024-11-11-20-23: <epoch:163, <total_loss_g_train:0.051296, train_psnr:33.394039, vq_loss_train:0.00042, spec_loss_train:0.01838>
+2024-11-11-20-23: <epoch:163, <recon_loss_valid:0.001942,st_valid:0.98308, spec_loss_valid:0.18988,psnr_valid:33.22075,best_epoch:162>
+2024-11-11-20-23: <epoch:164, <total_loss_g_train:0.051293, train_psnr:33.395657, vq_loss_train:0.00042, spec_loss_train:0.01836>
+2024-11-11-20-23: <epoch:164, <recon_loss_valid:0.001942,st_valid:0.98308, spec_loss_valid:0.19037,psnr_valid:33.22128,best_epoch:162>
+2024-11-11-20-23: <epoch:165, <total_loss_g_train:0.051285, train_psnr:33.396473, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-23: <epoch:165, <recon_loss_valid:0.001944,st_valid:0.98309, spec_loss_valid:0.19028,psnr_valid:33.21710,best_epoch:162>
+2024-11-11-20-23: <epoch:166, <total_loss_g_train:0.051281, train_psnr:33.397427, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-23: <epoch:166, <recon_loss_valid:0.001941,st_valid:0.98309, spec_loss_valid:0.19018,psnr_valid:33.22368,best_epoch:166>
+2024-11-11-20-23: <epoch:167, <total_loss_g_train:0.051275, train_psnr:33.398586, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-23: <epoch:167, <recon_loss_valid:0.001942,st_valid:0.98308, spec_loss_valid:0.19027,psnr_valid:33.22065,best_epoch:166>
+2024-11-11-20-23: <epoch:168, <total_loss_g_train:0.051279, train_psnr:33.400013, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-23: <epoch:168, <recon_loss_valid:0.001941,st_valid:0.98308, spec_loss_valid:0.19032,psnr_valid:33.22207,best_epoch:166>
+2024-11-11-20-24: <epoch:169, <total_loss_g_train:0.051275, train_psnr:33.400669, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-24: <epoch:169, <recon_loss_valid:0.001942,st_valid:0.98309, spec_loss_valid:0.19035,psnr_valid:33.22094,best_epoch:166>
+2024-11-11-20-24: <epoch:170, <total_loss_g_train:0.051280, train_psnr:33.401917, vq_loss_train:0.00042, spec_loss_train:0.01836>
+2024-11-11-20-24: <epoch:170, <recon_loss_valid:0.001942,st_valid:0.98309, spec_loss_valid:0.19037,psnr_valid:33.22082,best_epoch:166>
+2024-11-11-20-24: <epoch:171, <total_loss_g_train:0.051281, train_psnr:33.403030, vq_loss_train:0.00042, spec_loss_train:0.01836>
+2024-11-11-20-24: <epoch:171, <recon_loss_valid:0.001941,st_valid:0.98310, spec_loss_valid:0.19090,psnr_valid:33.22425,best_epoch:171>
+2024-11-11-20-24: <epoch:172, <total_loss_g_train:0.051280, train_psnr:33.403446, vq_loss_train:0.00042, spec_loss_train:0.01836>
+2024-11-11-20-24: <epoch:172, <recon_loss_valid:0.001941,st_valid:0.98310, spec_loss_valid:0.19096,psnr_valid:33.22460,best_epoch:172>
+2024-11-11-20-24: <epoch:173, <total_loss_g_train:0.051278, train_psnr:33.404755, vq_loss_train:0.00042, spec_loss_train:0.01836>
+2024-11-11-20-24: <epoch:173, <recon_loss_valid:0.001940,st_valid:0.98310, spec_loss_valid:0.19039,psnr_valid:33.22609,best_epoch:173>
+2024-11-11-20-24: <epoch:174, <total_loss_g_train:0.051274, train_psnr:33.406139, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-24: <epoch:174, <recon_loss_valid:0.001941,st_valid:0.98310, spec_loss_valid:0.19028,psnr_valid:33.22363,best_epoch:173>
+2024-11-11-20-24: <epoch:175, <total_loss_g_train:0.051266, train_psnr:33.407223, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-24: <epoch:175, <recon_loss_valid:0.001940,st_valid:0.98310, spec_loss_valid:0.19012,psnr_valid:33.22495,best_epoch:173>
+2024-11-11-20-24: <epoch:176, <total_loss_g_train:0.051259, train_psnr:33.408089, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-24: <epoch:176, <recon_loss_valid:0.001940,st_valid:0.98311, spec_loss_valid:0.19046,psnr_valid:33.22684,best_epoch:176>
+2024-11-11-20-24: <epoch:177, <total_loss_g_train:0.051259, train_psnr:33.409451, vq_loss_train:0.00042, spec_loss_train:0.01835>
+2024-11-11-20-24: <epoch:177, <recon_loss_valid:0.001940,st_valid:0.98311, spec_loss_valid:0.19021,psnr_valid:33.22538,best_epoch:176>
+2024-11-11-20-24: <epoch:178, <total_loss_g_train:0.051251, train_psnr:33.411007, vq_loss_train:0.00042, spec_loss_train:0.01835>
+2024-11-11-20-24: <epoch:178, <recon_loss_valid:0.001941,st_valid:0.98310, spec_loss_valid:0.19049,psnr_valid:33.22403,best_epoch:176>
+2024-11-11-20-24: <epoch:179, <total_loss_g_train:0.051243, train_psnr:33.411568, vq_loss_train:0.00042, spec_loss_train:0.01836>
+2024-11-11-20-24: <epoch:179, <recon_loss_valid:0.001940,st_valid:0.98311, spec_loss_valid:0.19025,psnr_valid:33.22552,best_epoch:176>
+2024-11-11-20-24: <epoch:180, <total_loss_g_train:0.051231, train_psnr:33.412788, vq_loss_train:0.00042, spec_loss_train:0.01835>
+2024-11-11-20-24: <epoch:180, <recon_loss_valid:0.001939,st_valid:0.98311, spec_loss_valid:0.19018,psnr_valid:33.22745,best_epoch:180>
+2024-11-11-20-24: <epoch:181, <total_loss_g_train:0.051232, train_psnr:33.413723, vq_loss_train:0.00042, spec_loss_train:0.01836>
+2024-11-11-20-24: <epoch:181, <recon_loss_valid:0.001940,st_valid:0.98311, spec_loss_valid:0.19032,psnr_valid:33.22619,best_epoch:180>
+2024-11-11-20-24: <epoch:182, <total_loss_g_train:0.051218, train_psnr:33.414810, vq_loss_train:0.00042, spec_loss_train:0.01835>
+2024-11-11-20-24: <epoch:182, <recon_loss_valid:0.001939,st_valid:0.98311, spec_loss_valid:0.19025,psnr_valid:33.22795,best_epoch:182>
+2024-11-11-20-24: <epoch:183, <total_loss_g_train:0.051213, train_psnr:33.415874, vq_loss_train:0.00042, spec_loss_train:0.01836>
+2024-11-11-20-24: <epoch:183, <recon_loss_valid:0.001941,st_valid:0.98311, spec_loss_valid:0.19023,psnr_valid:33.22443,best_epoch:182>
+2024-11-11-20-24: <epoch:184, <total_loss_g_train:0.051207, train_psnr:33.417740, vq_loss_train:0.00042, spec_loss_train:0.01836>
+2024-11-11-20-24: <epoch:184, <recon_loss_valid:0.001941,st_valid:0.98311, spec_loss_valid:0.18997,psnr_valid:33.22311,best_epoch:182>
+2024-11-11-20-24: <epoch:185, <total_loss_g_train:0.051203, train_psnr:33.418419, vq_loss_train:0.00042, spec_loss_train:0.01836>
+2024-11-11-20-24: <epoch:185, <recon_loss_valid:0.001940,st_valid:0.98312, spec_loss_valid:0.18989,psnr_valid:33.22545,best_epoch:182>
+2024-11-11-20-24: <epoch:186, <total_loss_g_train:0.051196, train_psnr:33.419762, vq_loss_train:0.00042, spec_loss_train:0.01836>
+2024-11-11-20-24: <epoch:186, <recon_loss_valid:0.001941,st_valid:0.98311, spec_loss_valid:0.19027,psnr_valid:33.22517,best_epoch:182>
+2024-11-11-20-24: <epoch:187, <total_loss_g_train:0.051193, train_psnr:33.421253, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-24: <epoch:187, <recon_loss_valid:0.001939,st_valid:0.98312, spec_loss_valid:0.19026,psnr_valid:33.22814,best_epoch:187>
+2024-11-11-20-24: <epoch:188, <total_loss_g_train:0.051190, train_psnr:33.421978, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-24: <epoch:188, <recon_loss_valid:0.001939,st_valid:0.98311, spec_loss_valid:0.19018,psnr_valid:33.22878,best_epoch:188>
+2024-11-11-20-24: <epoch:189, <total_loss_g_train:0.051188, train_psnr:33.423080, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-24: <epoch:189, <recon_loss_valid:0.001938,st_valid:0.98313, spec_loss_valid:0.19017,psnr_valid:33.23080,best_epoch:189>
+2024-11-11-20-24: <epoch:190, <total_loss_g_train:0.051187, train_psnr:33.423744, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-24: <epoch:190, <recon_loss_valid:0.001938,st_valid:0.98312, spec_loss_valid:0.19016,psnr_valid:33.23184,best_epoch:190>
+2024-11-11-20-24: <epoch:191, <total_loss_g_train:0.051185, train_psnr:33.424999, vq_loss_train:0.00042, spec_loss_train:0.01838>
+2024-11-11-20-24: <epoch:191, <recon_loss_valid:0.001938,st_valid:0.98313, spec_loss_valid:0.19022,psnr_valid:33.23227,best_epoch:191>
+2024-11-11-20-24: <epoch:192, <total_loss_g_train:0.051175, train_psnr:33.425732, vq_loss_train:0.00042, spec_loss_train:0.01838>
+2024-11-11-20-24: <epoch:192, <recon_loss_valid:0.001937,st_valid:0.98313, spec_loss_valid:0.19014,psnr_valid:33.23380,best_epoch:192>
+2024-11-11-20-24: <epoch:193, <total_loss_g_train:0.051177, train_psnr:33.426537, vq_loss_train:0.00042, spec_loss_train:0.01838>
+2024-11-11-20-24: <epoch:193, <recon_loss_valid:0.001937,st_valid:0.98312, spec_loss_valid:0.19022,psnr_valid:33.23213,best_epoch:192>
+2024-11-11-20-24: <epoch:194, <total_loss_g_train:0.051167, train_psnr:33.427746, vq_loss_train:0.00042, spec_loss_train:0.01838>
+2024-11-11-20-24: <epoch:194, <recon_loss_valid:0.001938,st_valid:0.98312, spec_loss_valid:0.19056,psnr_valid:33.23049,best_epoch:192>
+2024-11-11-20-24: <epoch:195, <total_loss_g_train:0.051168, train_psnr:33.428391, vq_loss_train:0.00042, spec_loss_train:0.01838>
+2024-11-11-20-24: <epoch:195, <recon_loss_valid:0.001937,st_valid:0.98312, spec_loss_valid:0.19031,psnr_valid:33.23283,best_epoch:192>
+2024-11-11-20-24: <epoch:196, <total_loss_g_train:0.051170, train_psnr:33.429077, vq_loss_train:0.00042, spec_loss_train:0.01838>
+2024-11-11-20-24: <epoch:196, <recon_loss_valid:0.001938,st_valid:0.98312, spec_loss_valid:0.19021,psnr_valid:33.22952,best_epoch:192>
+2024-11-11-20-24: <epoch:197, <total_loss_g_train:0.051157, train_psnr:33.429836, vq_loss_train:0.00042, spec_loss_train:0.01840>
+2024-11-11-20-24: <epoch:197, <recon_loss_valid:0.001937,st_valid:0.98313, spec_loss_valid:0.19041,psnr_valid:33.23329,best_epoch:192>
+2024-11-11-20-24: <epoch:198, <total_loss_g_train:0.051158, train_psnr:33.431034, vq_loss_train:0.00042, spec_loss_train:0.01839>
+2024-11-11-20-24: <epoch:198, <recon_loss_valid:0.001937,st_valid:0.98314, spec_loss_valid:0.19012,psnr_valid:33.23232,best_epoch:192>
+2024-11-11-20-25: <epoch:199, <total_loss_g_train:0.051160, train_psnr:33.431488, vq_loss_train:0.00042, spec_loss_train:0.01838>
+2024-11-11-20-25: <epoch:199, <recon_loss_valid:0.001936,st_valid:0.98315, spec_loss_valid:0.18997,psnr_valid:33.23535,best_epoch:199>
+2024-11-11-20-25: <epoch:200, <total_loss_g_train:0.051164, train_psnr:33.432152, vq_loss_train:0.00042, spec_loss_train:0.01838>
+2024-11-11-20-25: <epoch:200, <recon_loss_valid:0.001936,st_valid:0.98314, spec_loss_valid:0.19044,psnr_valid:33.23462,best_epoch:199>
+2024-11-11-20-25: <epoch:201, <total_loss_g_train:0.051163, train_psnr:33.432953, vq_loss_train:0.00042, spec_loss_train:0.01838>
+2024-11-11-20-25: <epoch:201, <recon_loss_valid:0.001936,st_valid:0.98315, spec_loss_valid:0.19050,psnr_valid:33.23512,best_epoch:199>
+2024-11-11-20-25: <epoch:202, <total_loss_g_train:0.051164, train_psnr:33.433777, vq_loss_train:0.00042, spec_loss_train:0.01838>
+2024-11-11-20-25: <epoch:202, <recon_loss_valid:0.001936,st_valid:0.98315, spec_loss_valid:0.19069,psnr_valid:33.23513,best_epoch:199>
+2024-11-11-20-25: <epoch:203, <total_loss_g_train:0.051163, train_psnr:33.434353, vq_loss_train:0.00042, spec_loss_train:0.01838>
+2024-11-11-20-25: <epoch:203, <recon_loss_valid:0.001936,st_valid:0.98315, spec_loss_valid:0.19027,psnr_valid:33.23531,best_epoch:199>
+2024-11-11-20-25: <epoch:204, <total_loss_g_train:0.051159, train_psnr:33.435165, vq_loss_train:0.00042, spec_loss_train:0.01838>
+2024-11-11-20-25: <epoch:204, <recon_loss_valid:0.001934,st_valid:0.98315, spec_loss_valid:0.19052,psnr_valid:33.23939,best_epoch:204>
+2024-11-11-20-25: <epoch:205, <total_loss_g_train:0.051156, train_psnr:33.436169, vq_loss_train:0.00042, spec_loss_train:0.01838>
+2024-11-11-20-25: <epoch:205, <recon_loss_valid:0.001934,st_valid:0.98315, spec_loss_valid:0.19054,psnr_valid:33.23823,best_epoch:204>
+2024-11-11-20-25: <epoch:206, <total_loss_g_train:0.051153, train_psnr:33.436497, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-25: <epoch:206, <recon_loss_valid:0.001934,st_valid:0.98314, spec_loss_valid:0.19057,psnr_valid:33.23869,best_epoch:204>
+2024-11-11-20-25: <epoch:207, <total_loss_g_train:0.051146, train_psnr:33.437641, vq_loss_train:0.00042, spec_loss_train:0.01839>
+2024-11-11-20-25: <epoch:207, <recon_loss_valid:0.001934,st_valid:0.98314, spec_loss_valid:0.19058,psnr_valid:33.23915,best_epoch:204>
+2024-11-11-20-25: <epoch:208, <total_loss_g_train:0.051148, train_psnr:33.438183, vq_loss_train:0.00042, spec_loss_train:0.01839>
+2024-11-11-20-25: <epoch:208, <recon_loss_valid:0.001935,st_valid:0.98314, spec_loss_valid:0.19073,psnr_valid:33.23711,best_epoch:204>
+2024-11-11-20-25: <epoch:209, <total_loss_g_train:0.051146, train_psnr:33.438599, vq_loss_train:0.00042, spec_loss_train:0.01839>
+2024-11-11-20-25: <epoch:209, <recon_loss_valid:0.001934,st_valid:0.98314, spec_loss_valid:0.19063,psnr_valid:33.23837,best_epoch:204>
+2024-11-11-20-25: <epoch:210, <total_loss_g_train:0.051149, train_psnr:33.439766, vq_loss_train:0.00042, spec_loss_train:0.01839>
+2024-11-11-20-25: <epoch:210, <recon_loss_valid:0.001935,st_valid:0.98315, spec_loss_valid:0.19064,psnr_valid:33.23755,best_epoch:204>
+2024-11-11-20-25: <epoch:211, <total_loss_g_train:0.051142, train_psnr:33.440685, vq_loss_train:0.00042, spec_loss_train:0.01839>
+2024-11-11-20-25: <epoch:211, <recon_loss_valid:0.001935,st_valid:0.98315, spec_loss_valid:0.19084,psnr_valid:33.23836,best_epoch:204>
+2024-11-11-20-25: <epoch:212, <total_loss_g_train:0.051136, train_psnr:33.441803, vq_loss_train:0.00042, spec_loss_train:0.01839>
+2024-11-11-20-25: <epoch:212, <recon_loss_valid:0.001935,st_valid:0.98315, spec_loss_valid:0.19073,psnr_valid:33.23712,best_epoch:204>
+2024-11-11-20-25: <epoch:213, <total_loss_g_train:0.051133, train_psnr:33.442398, vq_loss_train:0.00042, spec_loss_train:0.01839>
+2024-11-11-20-25: <epoch:213, <recon_loss_valid:0.001935,st_valid:0.98314, spec_loss_valid:0.19069,psnr_valid:33.23727,best_epoch:204>
+2024-11-11-20-25: <epoch:214, <total_loss_g_train:0.051125, train_psnr:33.443089, vq_loss_train:0.00042, spec_loss_train:0.01840>
+2024-11-11-20-25: <epoch:214, <recon_loss_valid:0.001934,st_valid:0.98314, spec_loss_valid:0.19070,psnr_valid:33.23848,best_epoch:204>
+2024-11-11-20-25: <epoch:215, <total_loss_g_train:0.051128, train_psnr:33.443569, vq_loss_train:0.00042, spec_loss_train:0.01840>
+2024-11-11-20-25: <epoch:215, <recon_loss_valid:0.001934,st_valid:0.98314, spec_loss_valid:0.19071,psnr_valid:33.23840,best_epoch:204>
+2024-11-11-20-25: <epoch:216, <total_loss_g_train:0.051128, train_psnr:33.444035, vq_loss_train:0.00042, spec_loss_train:0.01840>
+2024-11-11-20-25: <epoch:216, <recon_loss_valid:0.001933,st_valid:0.98315, spec_loss_valid:0.19063,psnr_valid:33.24194,best_epoch:216>
+2024-11-11-20-25: <epoch:217, <total_loss_g_train:0.051130, train_psnr:33.444359, vq_loss_train:0.00042, spec_loss_train:0.01840>
+2024-11-11-20-25: <epoch:217, <recon_loss_valid:0.001933,st_valid:0.98314, spec_loss_valid:0.19062,psnr_valid:33.24137,best_epoch:216>
+2024-11-11-20-25: <epoch:218, <total_loss_g_train:0.051134, train_psnr:33.445236, vq_loss_train:0.00042, spec_loss_train:0.01840>
+2024-11-11-20-25: <epoch:218, <recon_loss_valid:0.001933,st_valid:0.98314, spec_loss_valid:0.19086,psnr_valid:33.24121,best_epoch:216>
+2024-11-11-20-25: <epoch:219, <total_loss_g_train:0.051134, train_psnr:33.445618, vq_loss_train:0.00042, spec_loss_train:0.01839>
+2024-11-11-20-25: <epoch:219, <recon_loss_valid:0.001933,st_valid:0.98314, spec_loss_valid:0.19102,psnr_valid:33.24104,best_epoch:216>
+2024-11-11-20-25: <epoch:220, <total_loss_g_train:0.051134, train_psnr:33.446434, vq_loss_train:0.00042, spec_loss_train:0.01839>
+2024-11-11-20-25: <epoch:220, <recon_loss_valid:0.001933,st_valid:0.98314, spec_loss_valid:0.19078,psnr_valid:33.24122,best_epoch:216>
+2024-11-11-20-25: <epoch:221, <total_loss_g_train:0.051129, train_psnr:33.447388, vq_loss_train:0.00042, spec_loss_train:0.01839>
+2024-11-11-20-25: <epoch:221, <recon_loss_valid:0.001933,st_valid:0.98314, spec_loss_valid:0.19076,psnr_valid:33.24135,best_epoch:216>
+2024-11-11-20-25: <epoch:222, <total_loss_g_train:0.051132, train_psnr:33.447552, vq_loss_train:0.00042, spec_loss_train:0.01840>
+2024-11-11-20-25: <epoch:222, <recon_loss_valid:0.001934,st_valid:0.98315, spec_loss_valid:0.19052,psnr_valid:33.23965,best_epoch:216>
+2024-11-11-20-25: <epoch:223, <total_loss_g_train:0.051129, train_psnr:33.448353, vq_loss_train:0.00042, spec_loss_train:0.01840>
+2024-11-11-20-25: <epoch:223, <recon_loss_valid:0.001933,st_valid:0.98315, spec_loss_valid:0.19059,psnr_valid:33.24166,best_epoch:216>
+2024-11-11-20-25: <epoch:224, <total_loss_g_train:0.051125, train_psnr:33.449177, vq_loss_train:0.00042, spec_loss_train:0.01840>
+2024-11-11-20-25: <epoch:224, <recon_loss_valid:0.001933,st_valid:0.98315, spec_loss_valid:0.19027,psnr_valid:33.24046,best_epoch:216>
+2024-11-11-20-25: <epoch:225, <total_loss_g_train:0.051119, train_psnr:33.449642, vq_loss_train:0.00042, spec_loss_train:0.01840>
+2024-11-11-20-25: <epoch:225, <recon_loss_valid:0.001933,st_valid:0.98316, spec_loss_valid:0.19053,psnr_valid:33.24132,best_epoch:216>
+2024-11-11-20-25: <epoch:226, <total_loss_g_train:0.051118, train_psnr:33.450497, vq_loss_train:0.00042, spec_loss_train:0.01840>
+2024-11-11-20-25: <epoch:226, <recon_loss_valid:0.001933,st_valid:0.98317, spec_loss_valid:0.19077,psnr_valid:33.24130,best_epoch:216>
+2024-11-11-20-25: <epoch:227, <total_loss_g_train:0.051115, train_psnr:33.450867, vq_loss_train:0.00042, spec_loss_train:0.01839>
+2024-11-11-20-25: <epoch:227, <recon_loss_valid:0.001932,st_valid:0.98317, spec_loss_valid:0.19080,psnr_valid:33.24307,best_epoch:227>
+2024-11-11-20-25: <epoch:228, <total_loss_g_train:0.051113, train_psnr:33.451454, vq_loss_train:0.00042, spec_loss_train:0.01839>
+2024-11-11-20-26: <epoch:228, <recon_loss_valid:0.001932,st_valid:0.98317, spec_loss_valid:0.19061,psnr_valid:33.24293,best_epoch:227>
+2024-11-11-20-26: <epoch:229, <total_loss_g_train:0.051115, train_psnr:33.452057, vq_loss_train:0.00042, spec_loss_train:0.01839>
+2024-11-11-20-26: <epoch:229, <recon_loss_valid:0.001932,st_valid:0.98317, spec_loss_valid:0.19085,psnr_valid:33.24431,best_epoch:229>
+2024-11-11-20-26: <epoch:230, <total_loss_g_train:0.051119, train_psnr:33.452793, vq_loss_train:0.00042, spec_loss_train:0.01839>
+2024-11-11-20-26: <epoch:230, <recon_loss_valid:0.001931,st_valid:0.98317, spec_loss_valid:0.19097,psnr_valid:33.24495,best_epoch:230>
+2024-11-11-20-26: <epoch:231, <total_loss_g_train:0.051120, train_psnr:33.453403, vq_loss_train:0.00042, spec_loss_train:0.01839>
+2024-11-11-20-26: <epoch:231, <recon_loss_valid:0.001931,st_valid:0.98317, spec_loss_valid:0.19081,psnr_valid:33.24535,best_epoch:231>
+2024-11-11-20-26: <epoch:232, <total_loss_g_train:0.051117, train_psnr:33.454426, vq_loss_train:0.00042, spec_loss_train:0.01839>
+2024-11-11-20-26: <epoch:232, <recon_loss_valid:0.001931,st_valid:0.98318, spec_loss_valid:0.19064,psnr_valid:33.24545,best_epoch:232>
+2024-11-11-20-26: <epoch:233, <total_loss_g_train:0.051117, train_psnr:33.455040, vq_loss_train:0.00042, spec_loss_train:0.01839>
+2024-11-11-20-26: <epoch:233, <recon_loss_valid:0.001930,st_valid:0.98318, spec_loss_valid:0.19084,psnr_valid:33.24698,best_epoch:233>
+2024-11-11-20-26: <epoch:234, <total_loss_g_train:0.051119, train_psnr:33.455608, vq_loss_train:0.00042, spec_loss_train:0.01839>
+2024-11-11-20-26: <epoch:234, <recon_loss_valid:0.001930,st_valid:0.98318, spec_loss_valid:0.19061,psnr_valid:33.24659,best_epoch:233>
+2024-11-11-20-26: <epoch:235, <total_loss_g_train:0.051117, train_psnr:33.456093, vq_loss_train:0.00042, spec_loss_train:0.01838>
+2024-11-11-20-26: <epoch:235, <recon_loss_valid:0.001930,st_valid:0.98318, spec_loss_valid:0.19076,psnr_valid:33.24847,best_epoch:235>
+2024-11-11-20-26: <epoch:236, <total_loss_g_train:0.051113, train_psnr:33.456894, vq_loss_train:0.00042, spec_loss_train:0.01838>
+2024-11-11-20-26: <epoch:236, <recon_loss_valid:0.001930,st_valid:0.98318, spec_loss_valid:0.19079,psnr_valid:33.24786,best_epoch:235>
+2024-11-11-20-26: <epoch:237, <total_loss_g_train:0.051119, train_psnr:33.457195, vq_loss_train:0.00042, spec_loss_train:0.01838>
+2024-11-11-20-26: <epoch:237, <recon_loss_valid:0.001931,st_valid:0.98318, spec_loss_valid:0.19085,psnr_valid:33.24614,best_epoch:235>
+2024-11-11-20-26: <epoch:238, <total_loss_g_train:0.051123, train_psnr:33.458157, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-26: <epoch:238, <recon_loss_valid:0.001931,st_valid:0.98318, spec_loss_valid:0.19081,psnr_valid:33.24519,best_epoch:235>
+2024-11-11-20-26: <epoch:239, <total_loss_g_train:0.051122, train_psnr:33.458668, vq_loss_train:0.00042, spec_loss_train:0.01838>
+2024-11-11-20-26: <epoch:239, <recon_loss_valid:0.001931,st_valid:0.98318, spec_loss_valid:0.19093,psnr_valid:33.24506,best_epoch:235>
+2024-11-11-20-26: <epoch:240, <total_loss_g_train:0.051126, train_psnr:33.459015, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-26: <epoch:240, <recon_loss_valid:0.001930,st_valid:0.98318, spec_loss_valid:0.19077,psnr_valid:33.24744,best_epoch:235>
+2024-11-11-20-26: <epoch:241, <total_loss_g_train:0.051129, train_psnr:33.459549, vq_loss_train:0.00042, spec_loss_train:0.01838>
+2024-11-11-20-26: <epoch:241, <recon_loss_valid:0.001931,st_valid:0.98318, spec_loss_valid:0.19075,psnr_valid:33.24544,best_epoch:235>
+2024-11-11-20-26: <epoch:242, <total_loss_g_train:0.051131, train_psnr:33.459728, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-26: <epoch:242, <recon_loss_valid:0.001932,st_valid:0.98318, spec_loss_valid:0.19073,psnr_valid:33.24416,best_epoch:235>
+2024-11-11-20-26: <epoch:243, <total_loss_g_train:0.051130, train_psnr:33.460464, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-26: <epoch:243, <recon_loss_valid:0.001932,st_valid:0.98318, spec_loss_valid:0.19090,psnr_valid:33.24397,best_epoch:235>
+2024-11-11-20-26: <epoch:244, <total_loss_g_train:0.051130, train_psnr:33.460953, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-26: <epoch:244, <recon_loss_valid:0.001932,st_valid:0.98317, spec_loss_valid:0.19094,psnr_valid:33.24328,best_epoch:235>
+2024-11-11-20-26: <epoch:245, <total_loss_g_train:0.051132, train_psnr:33.461632, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-26: <epoch:245, <recon_loss_valid:0.001931,st_valid:0.98318, spec_loss_valid:0.19092,psnr_valid:33.24535,best_epoch:235>
+2024-11-11-20-26: <epoch:246, <total_loss_g_train:0.051131, train_psnr:33.461857, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-26: <epoch:246, <recon_loss_valid:0.001931,st_valid:0.98318, spec_loss_valid:0.19093,psnr_valid:33.24584,best_epoch:235>
+2024-11-11-20-26: <epoch:247, <total_loss_g_train:0.051131, train_psnr:33.462513, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-26: <epoch:247, <recon_loss_valid:0.001930,st_valid:0.98319, spec_loss_valid:0.19081,psnr_valid:33.24761,best_epoch:235>
+2024-11-11-20-26: <epoch:248, <total_loss_g_train:0.051126, train_psnr:33.463280, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-26: <epoch:248, <recon_loss_valid:0.001931,st_valid:0.98319, spec_loss_valid:0.19079,psnr_valid:33.24638,best_epoch:235>
+2024-11-11-20-26: <epoch:249, <total_loss_g_train:0.051126, train_psnr:33.463440, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-26: <epoch:249, <recon_loss_valid:0.001931,st_valid:0.98318, spec_loss_valid:0.19075,psnr_valid:33.24646,best_epoch:235>
+2024-11-11-20-26: <epoch:250, <total_loss_g_train:0.051129, train_psnr:33.464283, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-26: <epoch:250, <recon_loss_valid:0.001930,st_valid:0.98319, spec_loss_valid:0.19090,psnr_valid:33.24764,best_epoch:235>
+2024-11-11-20-26: <epoch:251, <total_loss_g_train:0.051133, train_psnr:33.464661, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-26: <epoch:251, <recon_loss_valid:0.001930,st_valid:0.98318, spec_loss_valid:0.19090,psnr_valid:33.24692,best_epoch:235>
+2024-11-11-20-26: <epoch:252, <total_loss_g_train:0.051129, train_psnr:33.464817, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-26: <epoch:252, <recon_loss_valid:0.001931,st_valid:0.98318, spec_loss_valid:0.19098,psnr_valid:33.24682,best_epoch:235>
+2024-11-11-20-26: <epoch:253, <total_loss_g_train:0.051133, train_psnr:33.465519, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-26: <epoch:253, <recon_loss_valid:0.001930,st_valid:0.98319, spec_loss_valid:0.19084,psnr_valid:33.24774,best_epoch:235>
+2024-11-11-20-26: <epoch:254, <total_loss_g_train:0.051132, train_psnr:33.466015, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-26: <epoch:254, <recon_loss_valid:0.001930,st_valid:0.98319, spec_loss_valid:0.19079,psnr_valid:33.24691,best_epoch:235>
+2024-11-11-20-26: <epoch:255, <total_loss_g_train:0.051131, train_psnr:33.466621, vq_loss_train:0.00042, spec_loss_train:0.01837>
+2024-11-11-20-26: <epoch:255, <recon_loss_valid:0.001931,st_valid:0.98319, spec_loss_valid:0.19066,psnr_valid:33.24644,best_epoch:235>
+2024-11-11-20-26: over patience early stop !
