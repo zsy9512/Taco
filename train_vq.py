@@ -2,6 +2,7 @@
 import argparse
 import itertools
 import os
+import sys
 import time
 import torch
 from src.modules.net import TouchStream
@@ -24,9 +25,9 @@ from src.quantization import ResidualVectorQuantizer,GroupVectorQuantizer
     --valid_data_path /home/zsy/workplace/taco/dataset/pwq_or/val \
     --log \
     --tensorboard \
-    --group_num 4 \
-    --bins 512 \
-    --nq 4 
+    --group_num 2 \
+    --bins 256 \
+    --nq 1
 """
 def getModelSize(model):
     param_size = 0
@@ -85,7 +86,7 @@ def get_args():
     parser.add_argument(
         '--LAMBDA_SPEC',
         type=float,
-        default=0.0,
+        default=0.00,
         help='hyper-parameter for spec loss')
     parser.add_argument(
         '--N_EPOCHS', type=int, default=100, help='Total training epoch')
@@ -131,8 +132,19 @@ def get_args():
         default=2,
     )
     args = parser.parse_args()
-    time_str = time.strftime('%Y-%m-%d-%H-%M')+"_nq_"+str(int(args.nq))+"_group_"+str(args.group_num)
-    #time_str ="nq_"+str(int(args.nq))+"_"+str(int(args.bins))
+    # train_set=[{1, 64}, {2, 64}, {1, 128},{2, 128},{3, 128},
+    #            {1, 256},{2, 256},{3, 256},{4, 256},{5, 256},
+    #            {6, 256}, {8, 256},{10, 256},{16, 256},{1, 512},
+    #            {2, 512},{3, 512},{14, 512},{1, 1024},{16,1024}]
+    train_set=[{1, 256},{2, 256},{4, 256}]
+    check={args.nq,args.bins}
+    if check not in train_set:
+        print("nq_"+str(int(args.nq))+"_"+str(int(args.bins))+" model is skip")
+        sys.exit()
+    else:
+        print("nq_"+str(int(args.nq))+"_"+str(int(args.bins))+" model is train")
+    #time_str = time.strftime('%Y-%m-%d-%H-%M')+"_nq_"+str(int(args.nq))+"_spec_"+str(int(args.LAMBDA_SPEC))
+    time_str ="nq_"+str(int(args.nq))+"_"+str(int(args.bins))
     if args.resume:
         args.PATH = args.resume_path  # direcly use the old model path
     else:

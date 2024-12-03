@@ -52,7 +52,7 @@ def get_parser():
     parser.add_argument(
         '--output',
         type=Path,
-        default='./output/Ger',
+        default='./output_001/Ger',
         nargs='?',
         help='Output file.')
     parser.add_argument(
@@ -156,7 +156,7 @@ def evaluations(args,datadict):
         diff =(ref - deg)**2
         psnr=10*np.log10((4)/(np.mean(diff)))
         snr=10*np.log10(np.sum(ref**2)/np.sum(diff))
-        st=stsim.st_sim(deg,ref,eta=0.5)
+        st,ss=stsim.st_sim(deg,ref,eta=0.5)
         sp=spqi.spqi(deg,ref)
         ##amc
         codenum=amc_trans(quantized)
@@ -167,11 +167,11 @@ def evaluations(args,datadict):
         cramlist.append(cr_am)
         crlist.append(cr)
         stlist.append(st)
-        splist.append(sp)
+        splist.append(ss)
         results.append({"psnr":psnr,"snr":snr,"CR_am":cr_am,"CR":cr,"ST":st,"SP":sp})
     print("psnr: ",np.mean(np.array(plist))," snr: ",np.mean(np.array(slist)),
           " CR: ",np.mean(np.array(crlist))," CR_am: ",np.mean(np.array(cramlist)),
-          " st: ",np.mean(np.array(stlist))," st_std: ",np.std(np.array(stlist)))
+          " st: ",np.mean(np.array(stlist))," sp: ",np.mean(np.array(splist)))
     return results
 def test_batch():
     datadict=[]
@@ -197,6 +197,6 @@ def test_batch():
     for vib in tqdm(input_lists):
         test_one(args=args,file_root=os.path.join(args.input, vib),datadict=datadict,model=model)
     res=evaluations(args,datadict)
-    pd.DataFrame(res).to_json(os.path.join(args.output, 'vq_'+str(n_q)+"_"+str(bins)+'.json'))
+    pd.DataFrame(res).to_json(os.path.join(args.output, 'phm_vq_'+str(n_q)+"_"+str(bins)+'.json'))
 if __name__ == '__main__':
     test_batch()

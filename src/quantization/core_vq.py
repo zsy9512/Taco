@@ -239,8 +239,8 @@ class ResidualVectorQuantization(nn.Module):
         return quantized_out
     def compute_loss(self,z_q_x, z_e_x,beta=0.2):
         #print(z_q_x.shape,z_e_x.shape)
-        loss_vq = F.smooth_l1_loss(z_q_x, z_e_x.detach(),beta=0.1)
+        loss_vq = F.smooth_l1_loss(z_e_x.detach(),z_q_x,beta=0.1)
         # Commitment objective
         loss_commit = F.smooth_l1_loss(z_e_x, z_q_x.detach(),beta=0.1)
-        loss=beta* loss_commit  + loss_vq
+        loss=loss_commit  +beta*loss_vq
         return loss

@@ -27,7 +27,9 @@ class TouchStream(nn.Module):
             #print(e.shape)
             quantized_st,quantized,commit_loss= self.quantizer(e)
             o = self.decoder(quantized_st)
-            commit_loss=0.5*self.compute_loss(quantized,e)+0.5*commit_loss
+            #commit_loss=0.5*self.compute_loss(quantized,e)+0.5*commit_loss
+            #commit_loss=commit_loss
+            commit_loss=self.compute_loss(quantized,e)
         else:
             quantized=e
             o = self.decoder(e)
@@ -45,7 +47,7 @@ class TouchStream(nn.Module):
         return o
     def compute_loss(self,z_q_x, z_e_x,beta=0.2):
         #print(z_q_x.shape,z_e_x.shape)
-        loss_vq = F.smooth_l1_loss(z_q_x, z_e_x.detach(),beta=0.1)
+        loss_vq = F.smooth_l1_loss(z_e_x.detach(),z_q_x,beta=0.1)
         # Commitment objective
         loss_commit = F.smooth_l1_loss(z_e_x, z_q_x.detach(),beta=0.1)
         loss=loss_commit  + beta* loss_vq
